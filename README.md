@@ -9,16 +9,20 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Cybersecurity Skills & Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                           | Description                                                   | Associated Project                                              |
+|--------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
+| **Network Security**           | Configuring firewalls, IDS/IPS, and monitoring network traffic | 🔒 Suricata Lab: Detecting Nmap scans and brute-force SSH attacks |
+| **SIEM & Log Analysis**        | Analyzing logs, detecting threats, and creating alert rules    | 📊 ELK Stack or Wazuh Project: Parsing logs from AD & Linux       |
+| **Incident Response**          | Managing incidents, containment, eradication, recovery         | 🚨 Tabletop Exercise: Simulated ransomware breach response        |
+| **Digital Forensics**          | Evidence acquisition, timeline creation, and analysis          | 🕵️‍♂️ M57 Case Study: Analyzing disk images and user behavior       |
+| **Vulnerability Assessment**   | Scanning, identifying, and prioritizing security flaws         | 🔍 Nessus or OpenVAS Scan Report: Enumerating system weaknesses   |
+| **Penetration Testing**        | Exploiting vulnerabilities to assess system defenses           | ⚔️ Metasploit & BeEF Labs: Gaining reverse shells via browsers    |
+| **Active Directory Security**  | Managing users, GPOs, and securing domain infrastructure       | 🛡️ AD Hardening Project: Implementing password policies, LAPS     |
+| **Security Automation**        | Using PowerShell/Bash for auditing and response                | 🤖 PowerShell Script: Alerting on specific Windows Event IDs      |
+| **Web Application Security**   | Identifying and exploiting OWASP Top 10 vulnerabilities        | 🌐 DVWA or WebGoat Exploits: XSS, SQLi, Auth bypass testing       |
+| **Cloud Security (Intro)**     | Understanding IAM, buckets, least privilege in cloud           | ☁️ AWS IAM Policy Simulation Lab (optional if you’ve done cloud)  |
 
 ## Tools
 
