@@ -7,7 +7,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m a cybersecurity graduate with hands-on experience in network defense, log analysis, and incident response. This portfolio highlights my projects and skills as I pursue a career as a Security Operations Center (SOC) analyst.
 
 ## Cybersecurity Skills & Projects
 
@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | **Active Directory Security**  | Managing users, GPOs, and securing domain infrastructure       | 🛡️ AD Hardening Project: Implementing password policies, LAPS     |
 | **Security Automation**        | Using PowerShell/Bash for auditing and response                | 🤖 PowerShell Script: Alerting on specific Windows Event IDs      |
 | **Web Application Security**   | Identifying and exploiting OWASP Top 10 vulnerabilities        | 🌐 DVWA or WebGoat Exploits: XSS, SQLi, Auth bypass testing       |
-| **Cloud Security (Intro)**     | Understanding IAM, buckets, least privilege in cloud           | ☁️ AWS IAM Policy Simulation Lab (optional if you’ve done cloud)  |
+| **Cloud Security (Intro)**     | Understanding IAM, buckets, least privilege in cloud           | ☁️ AWS IAM Policy Simulation Lab   |
 
 ## Tools
 
@@ -41,10 +41,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-00BFB3?style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kibana-E8478B?style=for-the-badge&logo=Kibana&logoColor=white" />
 </div>
+
+
+
+
 
 ## Certifications
 
