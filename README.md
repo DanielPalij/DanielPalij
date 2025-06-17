@@ -2,12 +2,12 @@
 <a href="https://www.linkedin.com/in/daniel-palij-1535b7301/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent CyberSecurity graduate with a profound interest in technology and a dedication to solving complex problems.
+A technology enthusiast and recent graduate, I thrive on tackling complex challenges through continuous learning and practical application.
 
 ## Objective
 
 
-I’m a cybersecurity graduate with hands-on experience in network defense, log analysis, and incident response. This portfolio highlights my projects and skills as I pursue a career as a Security Operations Center (SOC) analyst.
+As a cybersecurity graduate with hands-on experience in network defense, log analysis, and incident response, I aim to leverage my skills to build a career as a Security Operations Center (SOC) analyst. This portfolio showcases my relevant projects and expertise.
 
 ## Cybersecurity Skills & Projects
 
